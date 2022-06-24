@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Mj
+
+
 <!--
 **MoonjWll/MoonjWll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and Tools:
+https://img.shields.io/badge/Java-FFFF00?style=flat-square&logo=Java&logoColor=white
+
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Java&logoColor=black
+
+https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
